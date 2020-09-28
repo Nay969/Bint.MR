@@ -9,3 +9,7 @@ $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
 https://github.com/Nay969/Bint.MR
+
+Tools Run :
+$ ls && cd bint && ls
+$ python2 bint.py
